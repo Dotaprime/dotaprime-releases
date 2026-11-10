@@ -1,0 +1,12 @@
+node_modules/
+out/
+dist/
+*.log
+recordings/
+release/
+stratz-data/
+build/release-notes.md
+
+# Personal notes, kept out of the repository.
+docs/*-ideas.md
+.bot-checks/
